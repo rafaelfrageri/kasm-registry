@@ -8,7 +8,7 @@
   "gpu_count": 0,
   "cpu_allocation_method": "Inherit",
   "require_gpu": false,
-  "enabled": true,
+  "enabled": false,
   "image_type": "Container",
   "run_config": {
     "hostname": "kasm"
